@@ -1,0 +1,10 @@
+<html>
+	<head>	
+		<title> Login </title>
+	</head>
+	<form>
+		<input type="text" id="name" placeholder="username" ><br/>
+		<input type="password" id="senha" placeholder="******" ><br/>
+		<input type="button" value="Login" onclick="validar();" />
+	</form>
+</html>
