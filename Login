@@ -8,3 +8,5 @@
 		<input type="button" value="Login" onclick="validar();" />
 	</form>
 </html>
+
+https://br.freepik.com/vetores-gratis/formulario-criativo-de-login-criativo_1510697.htm link do estilo de tela que te falei.
