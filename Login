@@ -10,3 +10,22 @@
 </html>
 
 https://br.freepik.com/vetores-gratis/formulario-criativo-de-login-criativo_1510697.htm link do estilo de tela que te falei.
+
+<html>
+	<head>
+	<title> Lista <title> 
+	</head>
+	
+	<table border=1 cellspacing=0 cellpadding=2 >
+  <tr>
+    <td>Month</td>
+    <td>Savings</td>
+	<td>Savings</td>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+	<td>$100</td>
+  </tr>
+</table>
+</html>
