@@ -17,21 +17,88 @@ https://br.freepik.com/vetores-gratis/formulario-criativo-de-login-criativo_1510
 	<title> Lista </title> 
 	</head>
 	
-	<table border=1 cellspacing=0 cellpadding=2 >
+	<table border=0 cellspacing=0 cellpadding=2 >
   <tr>
-    	<td>Codigo</td>
-    	<td>Nome</td>
-	<td>Descritivo</td>
-	<td>Custo</td>
-	<td>Valor</td>
-	<td>Ativo</td>
-	<td>Fornecedor</td>
+    	<th>Codigo</th>
+    	<th>Nome</th>
+		<th>Descritivo</th>
+		<th>Custo</th>
+		<th>Valor</th>
+		<th>Fornecedor</th>
   </tr>
+  
   <tr>
-    <td>January</td>
-    <td>$100</td>
-	<td>$100</td>
+    <td>001</td>
+    <td>Camisa</td>
+	<td>Roupa</td>
+	<td>R$50,00</td>
+	<td>R$25,00</td>
+	<td>DC Comics</td>
   </tr>
+  
+  <tr>
+    <td>002</td>
+    <td>Calça</td>
+	<td>Roupa</td>
+	<td>R$150,00</td>
+	<td>R$125,00</td>
+	<td>Calvin Klain</td>
+  </tr>
+  
+  <tr>
+    <td>003</td>
+    <td>Blusa</td>
+	<td>Roupa</td>
+	<td>R$200,00</td>
+	<td>R$100,00</td>
+	<td>Quicksilver</td>
+  </tr>
+  
+    <tr>
+    <td>004</td>
+    <td>Jaqueta</td>
+	<td>Roupa</td>
+	<td>R$100,00</td>
+	<td>R$40,00</td>
+	<td>Oakley</td>
+  </tr>
+  
+    <tr>
+    <td>005</td>
+    <td>Camisa</td>
+	<td>Roupa</td>
+	<td>R$120,00</td>
+	<td>R$80,00</td>
+	<td>Element</td>
+  </tr>
+  
+    <tr>
+    <td>006</td>
+    <td>Calça</td>
+	<td>Roupa</td>
+	<td>R$180,00</td>
+	<td>R$120,00</td>
+	<td>Viv' Leroa</td>
+  </tr>
+  
+  <tr>
+    <td>007</td>
+    <td>Blusa</td>
+	<td>Roupa</td>
+	<td>R$300,00</td>
+	<td>R$150,00</td>
+	<td>Adidas</td>
+  </tr>
+  
+   <tr>
+    <td>008</td>
+    <td>Blusa</td>
+	<td>Roupa</td>
+	<td>R$350,00</td>
+	<td>R$170,00</td>
+	<td>Adidas</td>
+  </tr>
+  
 </table>
 
 </html>
