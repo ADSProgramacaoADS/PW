@@ -102,3 +102,21 @@ https://br.freepik.com/vetores-gratis/formulario-criativo-de-login-criativo_1510
 </table>
 
 </html>
+
+<html>
+	<head>	
+		<title> Cadastro </title>
+	</head>
+	<body>
+		Cadastro de Produto
+	</body> 
+	<form>
+		Codigo <br> <input type="text" id="cod" ><br/>
+		Nome Descritivo <br> <input type="text" id="name" /> <input type="text" id="desc" ><br/>
+		Custo Valor <br> <input type="text" id="custo" /> <input type="text" id="valor" ><br/>
+		Fornecedor <br> <input type="text" id="fornecedor" ><br/>
+		Ativo? <br> <input type="radio" name="Ativo" value="sim"> Sim <br/>
+		<input type="radio" name="Não ativo" value="nao"> Não<br/>
+		<input type="button" value="Salvar" onclick="validar();" />
+	</form>
+</html>
